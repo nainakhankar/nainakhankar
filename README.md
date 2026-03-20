@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Naina Khankar
 
-🎓 BTech in Computer Engineering | 🔒 Cloud Security | AWS & Azure tools | Terraform | PowerShell Scripting| CI/CD Pipelines | Agentic AI
+🎓 BTech in Computer Engineering | 🔒 Cloud Security | AWS & Azure tools | Terraform | PowerShell Scripting | CI/CD Pipelines | Agentic AI
 🔧 AWS · Azure · Python · LangChain · LangGraph · Power Platform · CI/CD Pipelines  
 🌎 Based in Tempe, Arizona | Open to opportunities across the U.S. | No sponsorship required
 
