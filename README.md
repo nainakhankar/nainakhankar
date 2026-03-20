@@ -32,7 +32,7 @@ I enjoy working at the intersection of **cloud operations and AI**, and I'm cont
 
 * **Netflix Analytics Dashboard** | Power BI, Python, Pandas, NumPy, Matplotlib, Seaborn
    * Performed data cleaning and exploratory analysis on 7,974 Netflix titles using Python (Pandas, NumPy, Matplotlib, Seaborn) in Jupyter Notebook before loading into Power BI.
-   * Built a 3-page interactive dashboard (Home, Movies, TV Shows) with KPI cards, world map by country, Movies vs TV Shows donut chart (70.85%/29.15%), content trend line chart, and interactive genre/year slicers.
+   * Built a 3-page interactive dashboard (Home, Movies, TV Shows) with KPI cards, world map by country, Movies vs TV Shows donut chart, content trend line chart, and interactive genre/year slicers.
 
 ---
 
